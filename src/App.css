@@ -1,0 +1,11 @@
+html,
+body {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.anim {
+  width: 50vw;
+  height: 100vh;
+  background-color: black;
+}
